@@ -23,3 +23,6 @@ Esté texto está en *cursiva* y esté también está en _cursiva_
 - Elemento2
 + Elemento3
 
+[Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge)
+[Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "texto opcional")
+
