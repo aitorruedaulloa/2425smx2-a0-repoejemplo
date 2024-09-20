@@ -1,4 +1,7 @@
 # 2425smx2-a0-repoejemplo
-Primer repositorio SMX2 ejemplo de uso de la aplicación
 
-hola mundo (primer cambio)
+# Encabexado 1
+## Encabezado 2
+### Encabezado 3
+#### H4
+##### H5
