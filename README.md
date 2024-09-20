@@ -27,7 +27,7 @@ Esté texto está en *cursiva* y esté también está en _cursiva_
 [Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "texto opcional")
 
 
-! [Caballos](https://github.com/aitorruedaulloa/2425smx2-a0-repoejemplo/blob/main/caballos.jpeg "Titulo opcional de la imagen")
+![Caballos](https://github.com/aitorruedaulloa/2425smx2-a0-repoejemplo/blob/main/caballos.jpeg "Titulo opcional de la imagen")
 
 
 
