@@ -6,5 +6,5 @@
 #### H4
 ##### H5
 
-Este texto está en *negrita*
-Esté texto está en _cursiva_
+Este texto está en *negrita* y este también está en _negrita_
+Esté texto está en **cursiva** y esté también está en __cursiva__
