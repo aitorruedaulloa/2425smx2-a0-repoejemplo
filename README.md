@@ -28,6 +28,14 @@ Esté texto está en *cursiva* y esté también está en _cursiva_
 
 
 ![Caballos](https://github.com/aitorruedaulloa/2425smx2-a0-repoejemplo/blob/main/caballos.jpeg "Titulo opcional de la imagen")
+|Columna 1 |Columna 2 | Columna 3|
+|--------------|:--------------:|--------------:|
+|col 3 es |right-aligned |$1600|
+|col 2 es |right-aligned |$12|
+|zebra stripes |son limpias |$1|
+
+
+
 
 
 
